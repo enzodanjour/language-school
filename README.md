@@ -16,3 +16,5 @@ Usefull links:
 -  [Discord channel link](https://discordapp.com/invite/x7X4uA9)
 
 - [Mock on dribble](https://dribbble.com/shots/13979977-Language-School)
+
+- [How to enable Flutter web](https://flutter.dev/docs/get-started/web)
