@@ -1,6 +1,6 @@
 # Language School UI Challenge
 
-## How colaborate
+## How to colaborate
 
 1. Choose a Issue
 2. Fork the repository
