@@ -11,4 +11,5 @@ class AppColors {
   static Color darkPurple = Color(0xff8273C9);
   static Color pink = Color(0xffFADCFF);
   static Color darkPink = Color(0xffB659C6);
+  static Color backgroundColor = Color(0xffFAFAFB);
 }
